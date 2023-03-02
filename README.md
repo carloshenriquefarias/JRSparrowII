@@ -4,10 +4,10 @@
 I'm a Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, ReactJS, and React Native. I'm a student at Ignite at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.🚀
 
 #### My current tools 
-📲 Front-end Mobile with React Native  
-📲 Expo, Native Base, Style Components
-🌎 Front-end Web with Reactjs, Next, Chakra Ui
-🛠️ Typescript 
+📲 Front-end Mobile with React Native;  
+📲 Expo, Native Base, Style Components;
+🌎 Front-end Web with Reactjs, Next, Chakra Ui;
+🛠️ Typescript; 
 🧰 See my LinkedIn: [Carlos Henrique](https://www.linkedin.com/in/carlos-henrique-farias-junior-296562235/)
 
 
