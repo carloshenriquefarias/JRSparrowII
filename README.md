@@ -8,9 +8,9 @@ I'm a FullStack Developer Passionate about the best web and mobile development t
 🌎 Front-end Web with Reactjs  
 🛠️ Typescript  
 📡 Back-end with Nodejs | PHP
-🧰 See my LinkedIn: [Prisco Cleyton](https://www.linkedin.com/in/priscocleyton/)
+🧰 See my LinkedIn: [Carlos Henrique](https://www.linkedin.com/in/carlos-henrique-farias-junior-296562235/)
 <div align="center">
-  <a href="https://github.com/priscocleyton">
+  <a href="https://github.com/carloshenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JRSparrowII&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRSparrowII&layout=compact&langs_count=7&theme=merko"/>
 </div>
