@@ -1,13 +1,12 @@
 
 ### Hi, I'm Carlos Henrique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a FullStack Developer Passionate about the best web and mobile development technologies. I have experience with projects using PHP, JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Ignite at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.🚀
+I'm a FullStack Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, Typescript, ReactJS, and React Native. I'm a student at Ignite at Rocketseat, where I learned in practice on the most modern technologies of web and mobile development.🚀
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with Reactjs  
-🛠️ Typescript  
-📡 Back-end with Nodejs | PHP
+🛠️ Typescript 
 🧰 See my LinkedIn: [Carlos Henrique](https://www.linkedin.com/in/carlos-henrique-farias-junior-296562235/)
 <div align="center">
   <a href="https://github.com/carloshenrique">
