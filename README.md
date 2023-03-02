@@ -5,7 +5,8 @@ I'm a Developer Passionate about the best web and mobile development technologie
 
 #### My current tools 
 📲 Front-end Mobile with React Native  
-🌎 Front-end Web with Reactjs  
+📲 Expo, Native Base, Style Components
+🌎 Front-end Web with Reactjs, Next, Chakra Ui
 🛠️ Typescript 
 🧰 See my LinkedIn: [Carlos Henrique](https://www.linkedin.com/in/carlos-henrique-farias-junior-296562235/)
 
